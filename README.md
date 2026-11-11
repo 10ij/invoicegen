@@ -60,3 +60,8 @@ The form sends data as URL params to the invoice page. Invoice page reads it and
 ## Works on
 
 Chrome, Firefox, Safari, Edge. Possibly not Internet explorer
+
+# AI Usage (11/11/2026)
+
+This project more or less predates vibecoding being the norm, however AI was used for tailwind syntax, and some JS from what I remember
+
